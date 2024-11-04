@@ -1,0 +1,7 @@
+Python Language
+machine learning Algorithm knowledge
+Logistic regression
+numpy
+matplotlib
+seaborn
+Scikit-learn
