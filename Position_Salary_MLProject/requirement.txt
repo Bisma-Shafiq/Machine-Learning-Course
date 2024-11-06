@@ -1,7 +1,6 @@
 Python Language
 machine learning Algorithm knoAwledge
-Logistic regression
-numpy
+Polynomial regression
 matplotlib
 seaborn
 Scikit-learn
