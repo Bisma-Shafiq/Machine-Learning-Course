@@ -4,3 +4,4 @@ Matplotlib
 scikit-learn
 mlxtend
 imblearn
+scipy
